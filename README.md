@@ -20,7 +20,7 @@ Analisis: Canny menggunakan tahap Non-Maximum Suppression yang berfungsi membuan
 
 Kelebihan: Sangat bersih dari noise berkat bantuan filter Gaussian Blur di tahap awal algoritmanya.
 
-2. Implementasi Aplikasi Interaktif (Screenshot 13:54)
+2. Implementasi Aplikasi Interaktif ![foto](https://github.com/ramzi121006/pc_per10/blob/f207adbb430e30a7097641fe6f01db367e696473/ss%20pc_per10/gambar2.png)
 Untuk mempermudah analisis, dibuat aplikasi berbasis web menggunakan Streamlit.
 
 Fungsi Interaktif: Aplikasi ini memungkinkan pengguna untuk mengubah nilai Threshold secara real-time melalui slider.
