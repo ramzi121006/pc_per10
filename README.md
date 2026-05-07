@@ -31,7 +31,7 @@ High Threshold: Jika diatur terlalu tinggi, beberapa garis tepi sel yang penting
 
 Tujuan: Fitur ini sangat berguna dalam dunia medis untuk menentukan konfigurasi terbaik guna memisahkan massa sel kanker dari jaringan sehat di sekitarnya.
 
-3. Analisis Hasil Akhir & Performa (Screenshot 13:57)
+3. Analisis Hasil Akhir & Performa ![foto](https://github.com/ramzi121006/pc_per10/blob/c45dd85d277eb743a205465f1728cf209ec65cfb/ss%20pc_per10/gambar%203.png)
 Bagian ini menunjukkan hasil akhir yang telah dioptimasi.
 
 Presisi Geometris: Algoritma Canny berhasil mempertahankan bentuk morfologi sel (bundar/lonjong) dengan sangat konsisten. Hal ini krusial jika sistem ini digunakan untuk menghitung luas area atau jumlah sel secara otomatis (segmentasi).
