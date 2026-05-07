@@ -1,7 +1,8 @@
 # pc_per10
-# nama: muhamad valentino ramzi
-# nim:  312410454
+# Nama: muhamad valentino ramzi
+# Nim:  312410454
 
+# Penjelasan
 Edge Detection Analysis: Sobel vs Canny on Cancer Cell Imagery
 Proyek ini bertujuan untuk menganalisis performa dua algoritma deteksi tepi populer, Sobel dan Canny, dalam mengidentifikasi struktur sel pada citra medis sel kanker ![foto](https://github.com/ramzi121006/pc_per10/blob/e7161dfded68dc7b88e0c0896446e00f4e4fff45/pc_per%2010/lungaca1002.jpeg).
 
