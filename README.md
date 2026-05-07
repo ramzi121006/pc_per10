@@ -3,7 +3,7 @@
 Edge Detection Analysis: Sobel vs Canny on Cancer Cell Imagery
 Proyek ini bertujuan untuk menganalisis performa dua algoritma deteksi tepi populer, Sobel dan Canny, dalam mengidentifikasi struktur sel pada citra medis sel kanker ![foto](https://github.com/ramzi121006/pc_per10/blob/e7161dfded68dc7b88e0c0896446e00f4e4fff45/pc_per%2010/lungaca1002.jpeg).
 
-1. Analisis Perbandingan Algoritma (Screenshot 13:49)
+1. Analisis Perbandingan Algoritma ![foto](https://github.com/ramzi121006/pc_per10/blob/1e8d441280619e986e85c5e5abdc6b1e630074a4/ss%20pc_per10/gambar%201.png)
 Pada tahap ini, dilakukan perbandingan visual langsung antara metode Sobel dan Canny.
 
 Metode Sobel: * Karakteristik: Menghasilkan garis tepi yang tebal (multi-pixel).
